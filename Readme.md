@@ -1,11 +1,32 @@
 # <i>My web3 projects (Bitcoin, Stacks, EVM, Solana, Near ...)</i>
 
-Here are my past web3 projects.
-DeFi, Dex, Dao, NFT minting, staking, evolution/breeding, raffle/auction, marketplace, launchpad lend/borrow
-Recently focused on Bitcoin and Stacks
+Here are my past web3 / ai projects.
+AI Agent, Traiding Agent, DeFAI, DeFi, Dex, Dao, NFT minting, staking, evolution/breeding, raffle/auction, marketplace, launchpad lend/borrow1
+Currently focus on AI Agent, DeFAI and Trading Bot.
 
 <div><i>Most of the repos are under private status since I've signed NDA with my clients.</i></div>
 <div><i>Send me DM if you are interested in my previous projects.</i></div>
+
+<h3><u><strong><i>Satoshi AI Agent</i></strong></u> &nbsp;(EVM multichain)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/fe2428d8-5522-4f96-80be-fd27f27c5e6c">
+<div>- Integrated DeFiLlama API, Coinmarketcap API, Coingecko API, Nansen AI API</div>
+<div>- Built Backend API for mulcichain analytics system.</div>
+<div>- Implement AI terminal to the website. </div>
+
+- Live: <a href="https://satoshiaiagent.com/">Satoshi AI Agent</a>
+
+<h3><u><strong><i>Monkai</i></strong></u> &nbsp;(Multichain - Solana, Ethereum, Bitcoin)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/09c502a6-5077-4783-aeb2-62b70b83cbf8">
+<div>- Build Multichain NFT minting & staking. (Solana pNFT, EVM ERC721, Bitcoin Ordinal)</div>
+<div>- Built NFT to FT swap. (pNFT to spl, Ordinal to Rune, ERC721 to ERC20)</div>
+<div>- Built Multichain token presale. (Bitcoin, Solana, Ethereum)</div>
+<div>- Integrate AI terminal to the website. </div>
+
+- Live: <a href="https://monkainft.com/">Monkai</a>
 
 <h3><u><strong><i>Forking pump.fun</i></strong></u> &nbsp;(Solana, EVM)</h3>
 <hr />
