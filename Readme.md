@@ -7,7 +7,7 @@ Currently focus on AI Agent, DeFAI and Trading Bot.
 <div><i>Most of the repos are under private status since I've signed NDA with my clients.</i></div>
 <div><i>Send me DM if you are interested in my previous projects.</i></div>
 
-<h3><u><strong><i>Satoshi AI Agent</i></strong></u> &nbsp;(EVM multichain)</h3>
+<h3><u><strong><i>Saint - Satoshi AI Agent</i></strong></u> &nbsp;(EVM multichain)</h3>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/user-attachments/assets/fe2428d8-5522-4f96-80be-fd27f27c5e6c">
@@ -15,7 +15,7 @@ Currently focus on AI Agent, DeFAI and Trading Bot.
 <div>- Built Backend API for mulcichain analytics system.</div>
 <div>- Implement AI terminal to the website. </div>
 
-- Live: <a href="https://satoshiaiagent.com/">Satoshi AI Agent</a>
+- Live: <a href="https://satoshiaiagent.com/">Saint - Satoshi AI Agent</a>
 
 <h3><u><strong><i>Monkai</i></strong></u> &nbsp;(Multichain - Solana, Ethereum, Bitcoin)</h3>
 <hr />
