@@ -1,7 +1,7 @@
 # <i>My web3 projects (Bitcoin, Stacks, EVM, Solana, Near ...)</i>
 
 Here are my past web3 / ai projects.
-AI Agent, Traiding Agent, DeFAI, DeFi, Dex, Dao, NFT minting, staking, evolution/breeding, raffle/auction, marketplace, launchpad lend/borrow1
+AI Agent, Trading Agent, DeFAI, DeFi, Dex, Dao, NFT minting, staking, evolution/breeding, raffle/auction, marketplace, launchpad lend/borrow1
 Currently focus on AI Agent, DeFAI and Trading Bot.
 
 <div><i>Most of the repos are under private status since I've signed NDA with my clients.</i></div>
